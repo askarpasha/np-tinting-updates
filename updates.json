@@ -1,6 +1,6 @@
 {
   "Version": "1.0.1.0",
-  "DownloadUrl": "https://your-server.com/downloads/NPTintingFrontend-1.0.1.0.exe",
+  "DownloadUrl": "https://github.com/askarpasha/np-tinting-updates/releases/download/NPTintingFrontend-1.0.1.0.exe",
   "FileSize": 5242880,
   "ReleaseNotes": "This update includes:\n\n• Bug fixes for color matching algorithm\n• Improved performance for large product catalogs\n• Enhanced user interface responsiveness\n• Fixed issue with report generation\n• Added support for new color formats\n\nPlease restart the application after installation.",
   "ReleaseDate": "2024-01-15T10:00:00Z",
